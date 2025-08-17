@@ -1,5 +1,7 @@
 CALL GetCustomerById(2);
-output:
+
+"OUTPUT":
+
  customer_id=2  ,  customer_name =bob , city = london
 
 +-------------+---------------+--------+
